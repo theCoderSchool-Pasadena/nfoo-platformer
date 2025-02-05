@@ -2,16 +2,15 @@
 
 # 📌 Project Name <!-- Project Name here -->
 
-## 📝 Overview
-<!-- A brief description of the project. Explain what it does, its purpose, and its key features. -->
+Platformer Game
 
-## 🎯 Learning Objectives
-<!--
-- List the programming concepts or technologies covered in this project.
-- Example: Loops, Functions, API calls, Object-Oriented Programming, etc.
--->
+## 📝 Overview
+
+The game features a Mario Level to create a platformer. You can use the right/left arrow keys to move around and the up key to make mario jump. The platforms will randomize each time you hit the star coin giving the player a new challenge every time. Additionally, this game uses collision detection for the platforms and also a velocity to make realistic jumps. 
 
 ## 🛠️ Technologies Used
+
+- Pygame
 <!--
 - Programming Language(s): Python, JavaScript, etc.
 - Frameworks/Libraries: React, Flask, etc.
